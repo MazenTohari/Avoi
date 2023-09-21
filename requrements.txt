@@ -1,0 +1,14 @@
+tensorflow
+sklearn
+scipy
+pathlib
+numpy
+pandas
+matplotlib
+IPython
+wave
+pylab
+librosa
+torch
+datasets
+TTS
